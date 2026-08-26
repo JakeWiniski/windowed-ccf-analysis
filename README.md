@@ -37,3 +37,7 @@ This workflow is well-suited for exploratory analysis of time-dependent relation
 - Detecting changes in relationships between paired measurements.  
 - Comparing behavior across user-defined intervals.  
 - Screening datasets for shifts in dynamic correlations.
+
+## AI Use Disclosure
+
+This project was developed with assistance from generative AI and coding-agent tools. AI was used for coding, debugging, and development support; analytical design, validation, interpretation, and final decisions were performed by the author.
